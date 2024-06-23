@@ -1,0 +1,16 @@
+.lista{
+    display: flex;
+    background-color: black;
+    align-items: start;
+
+}
+
+.item{
+    margin: 10px;
+    padding: auto;
+    list-style: none;
+    background-color: orangered;
+    color: blanchedalmond;
+    width: 25%;
+    text-align: center;
+}
